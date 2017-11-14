@@ -3,7 +3,7 @@
 ![compatibility](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/compatible.gif?v=2)
 
 <p align="center">
-  <span>Nepali</span> |
+  <span>नेपाली </span> |
   <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs">Spanish</a> |
   <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/russian#fullpagejs">Russian</a>
 </p>
@@ -24,6 +24,8 @@
 ---
 
 A simple and easy to use libary to create fullscreen scrolling websites (also known as single page websites or onepage sites).
+एक साधारण तथा सजिलो 
+
 It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
 
 Invite me to a coffee
