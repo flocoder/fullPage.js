@@ -65,7 +65,7 @@ It also provides touch support for mobile phones, tablets and touch screen compu
 
 [![Browserstack](http://wallpapers-for-ipad.com/fullpage/imgs3/logos/browserstack2.png)](http://www.browserstack.com/)
 
-Special thanks to [Browserstack](http://www.browserstack.com/) for supporting fullpage.js.
+समर्थनको लागी [Browserstack](http://www.browserstack.com/) लाई विशेष धन्यवाद ।
 
 ## Usage
 As you can see in the example files, you will need to include:
