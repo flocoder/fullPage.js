@@ -24,7 +24,7 @@
 ---
 
 A simple and easy to use libary to create fullscreen scrolling websites (also known as single page websites or onepage sites).
-एक साधारण तथा सजिलो 
+पूर्ण स्क्रोल स्क्रीन वेबसाईट बनाउनको लागि एक साधारण तथा सजिलो लाईब्ररी 
 
 It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
 
