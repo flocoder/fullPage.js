@@ -29,6 +29,7 @@ A simple and easy to use libary to create fullscreen scrolling websites (also kn
 It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
 
 Invite me to a coffee
+कफीको लागी आमंत्रण गर्नुहोस्  
 [![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BEK5JQCQMED4J&lc=GB&item_name=fullPage%2ejs&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 Customizations of the library and urgent changes are available upon request for some reasonable price. <a href="http://alvarotrigo.com/#contact-page">Contact me</a>.
@@ -54,11 +55,11 @@ Customizations of the library and urgent changes are available upon request for 
 - [Donations](https://github.com/alvarotrigo/fullPage.js#donations)
 - [License](https://github.com/alvarotrigo/fullPage.js#license)
 
-## Introduction
+## परिचय 
 Suggestion are more than welcome, not only for feature requests but also for coding style improvements.
 Let's make this a great library to make people's lives easier!
 
-## Compatibility
+## अनुकूलता
 fullPage.js is fully functional on all modern browsers, as well as some old ones such as Internet Explorer 8, 9, Opera 12, etc.
 It works with browsers with CSS3 support and with the ones which don't have it, making it ideal for old browsers compatibility.
 It also provides touch support for mobile phones, tablets and touch screen computers.
@@ -67,7 +68,7 @@ It also provides touch support for mobile phones, tablets and touch screen compu
 
 समर्थनको लागी [Browserstack](http://www.browserstack.com/) लाई विशेष धन्यवाद ।
 
-## Usage
+## प्रयोगता 
 As you can see in the example files, you will need to include:
  - [jQuery library](http://jquery.com/). (1.6.0 minimum)
  - The JavaScript file `jquery.fullPage.js` (or its minified version `jquery.fullPage.min.js`)
@@ -75,7 +76,7 @@ As you can see in the example files, you will need to include:
 
  **Optionally**, when using `css3:false`, you can add the [jQuery UI library](http://jqueryui.com/) in case you want to use other easing effects apart from the ones included in the jQuery library (`linear` and `swing` ) or the one included by default in fullPage.js (`easeInOutCubic`).
 
-### Install using bower or npm
+### bower तथा npm बाट इन्स्टल गर्नको लागी 
 **Optionally**, you can install fullPage.js with bower or npm if you prefer:
 
 Terminal:
