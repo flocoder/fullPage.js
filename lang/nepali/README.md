@@ -28,11 +28,11 @@ A simple and easy to use libary to create fullscreen scrolling websites (also kn
 
 It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
 
-Invite me to a coffee
 कफीको लागी आमंत्रण गर्नुहोस्  
 [![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BEK5JQCQMED4J&lc=GB&item_name=fullPage%2ejs&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
-Customizations of the library and urgent changes are available upon request for some reasonable price. <a href="http://alvarotrigo.com/#contact-page">Contact me</a>.
+लाइब्ररीको अनुकूलन तथा तीव्र परिवर्तन गर्नको लागी उचित मूल्यमा उपलब्ध छ। 
+<a href="http://alvarotrigo.com/#contact-page">सम्पर्क गर्नुहोस् </a>.
 
 - [Introduction](https://github.com/alvarotrigo/fullPage.js#introduction)
 - [Compatibility](https://github.com/alvarotrigo/fullPage.js#compatibility)
